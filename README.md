@@ -1,6 +1,6 @@
 # Commercial Data Analytics Portfolio
 
-This repository showcases my data analytics projects inspired by commercial and customer insight analysis at Marks & Spencer Financial Services.
+This repository showcases my data analytics projects for commercial and customer insight analysis.
 
 ## Projects (to be uploaded)
 - **Plant Co Sales Performance Dashboard (Power BI):** Analysed year-on-year sales, quantity, and profitability to identify margin stability and regional trends.
