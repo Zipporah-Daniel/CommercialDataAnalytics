@@ -12,4 +12,4 @@ Built a model to predict borrower repayment likelihood on LendingClub loand and 
 Python | Power BI | Power Query | Excel | Data Cleaning | Data Visualisation | Commercial Insight
 
 ## Objective
-To apply analytics to real-world business and financial datasets, helping identify opportunities to improve customer experience, product performance, and commercial growth.
+To apply analytics to business and financial datasets, helping to identify opportunities for improved customer experience, product performance, and commercial growth.
